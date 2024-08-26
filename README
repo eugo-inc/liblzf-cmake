@@ -4,6 +4,7 @@ EUGO FORK
     + CMake build system support
     + Unaligned access undefined behavior fix on non-x86 systems
     + C symbols are linked when used from C++
+    + Cleaned up unused/dead files
     Removed features:
     - ./configure-based builds
     - C# implementation
